@@ -2,4 +2,4 @@
 hi
 
 
-I am willing to learn C#
+I can code in Haxe, and some c++ too
